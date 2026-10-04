@@ -1,0 +1,22 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+
+# secrets — never commit these
+.env
+.env.*
+!.env.example
+certs/
+*.pem
+
+# paid fonts — license doesn't allow sharing them
+src/fonts/AppleGaramond/
+src/fonts/edwardianscriptitc/
+
+# OS / editor junk
+.DS_Store
+.vscode/
+.idea/
+*.log
