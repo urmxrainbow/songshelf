@@ -91,7 +91,7 @@ Before you start, make sure you have:
 Open a terminal and run:
 
 ```bash
-git clone https://github.com/<your-username>/songshelf.git
+git clone https://github.com/urmxrainbow/songshelf.git
 cd songshelf
 ```
 
